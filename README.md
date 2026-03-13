@@ -1,4 +1,4 @@
-# Docking Molecular — Semillero de Química
+# Docking Molecular — Semillero de Química "Energía Renovable y Sostenibilidad"
 
 > Curso de introducción a la química computacional mediante docking molecular.  
 > 6 sesiones · 2 horas/sesión · Enfoque: terminal, Python y análisis crítico de resultados.
